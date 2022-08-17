@@ -1,25 +1,4 @@
-# AgriculturalApp
-Developed for Digital India Hackathon@ HackerEarth by Students of NIT Hamirpur.
 
-Sample apk can be downloaded from following  [link](https://github.com/sukhbir-singh/AgriculturalApp/blob/master/sample%20apk/Agricultural%20App_1.0.apk).
-
-Screencast can be found at following [youtube link](https://youtu.be/-mDYZHtcagk).
-
-
-**Contest Link:**
-
-https://www.hackerearth.com/sprints/digital-india-hackathon/?utm_source=website&utm_medium=widget&utm_campaign=live-widget
-
-
-**Team Members:**
-
-1.[Akhilesh Kumar](https://github.com/akhilesh26)
-
-2.[Sukhbir Singh](https://github.com/sukhbir-singh)
-
-3.[Mukesh Kharita](https://github.com/mukeshkharita)
-
-4.[Sahil Ramola](https://github.com/RamolaWeb)
 
 
 **Resources Used:**
